@@ -1,0 +1,132 @@
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\WebFormsScaffolding\bin\Debug\MVC5Scaffolding.dll
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\WebFormsScaffolding\bin\Debug\MVC5Scaffolding.pdb
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\WebFormsScaffolding\bin\Debug\fr-FR\MVC5Scaffolding.resources.dll
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\WebFormsScaffolding\obj\Debug\UI\NewDataContextDialog.g.cs
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\WebFormsScaffolding\obj\Debug\UI\WebFormsScaffolderDialog.g.cs
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\WebFormsScaffolding\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\WebFormsScaffolding\obj\Debug\MVC5Scaffolding_MarkupCompile.cache
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\WebFormsScaffolding\obj\Debug\MVC5Scaffolding_MarkupCompile.lref
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\WebFormsScaffolding\obj\Debug\UI\NewDataContextDialog.baml
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\WebFormsScaffolding\obj\Debug\UI\WebFormsScaffolderDialog.baml
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\WebFormsScaffolding\obj\Debug\MVC5Scaffolding.g.resources
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\WebFormsScaffolding\obj\Debug\Microsoft.AspNet.Scaffolding.WebForms.Resources.resources
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\WebFormsScaffolding\obj\Debug\Microsoft.AspNet.Scaffolding.WebForms.UI.NewDataContextDialogResources.resources
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\WebFormsScaffolding\obj\Debug\Microsoft.AspNet.Scaffolding.WebForms.UI.WebFormsScaffolderDialogResources.resources
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\WebFormsScaffolding\obj\Debug\Microsoft.AspNet.Scaffolding.WebForms.Resources.fr-FR.resources
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\WebFormsScaffolding\obj\Debug\Microsoft.AspNet.Scaffolding.WebForms.UI.NewDataContextDialogResources.fr-FR.resources
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\WebFormsScaffolding\obj\Debug\Microsoft.AspNet.Scaffolding.WebForms.UI.WebFormsScaffolderDialogResources.fr-FR.resources
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\WebFormsScaffolding\obj\Debug\MVC5Scaffolding.csproj.GenerateResource.Cache
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\WebFormsScaffolding\obj\Debug\fr-FR\MVC5Scaffolding.resources.dll
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\WebFormsScaffolding\obj\Debug\MVC5Scaffolding.dll
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\WebFormsScaffolding\obj\Debug\MVC5Scaffolding.pdb
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\WebFormsScaffolding\obj\Debug\UI\MvcScaffolderDialog.g.cs
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\WebFormsScaffolding\obj\Debug\UI\MvcScaffolderDialog.baml
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\WebFormsScaffolding\obj\Debug\Microsoft.AspNet.Scaffolding.WebForms.UI.MvcScaffolderDialogResources.resources
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\WebFormsScaffolding\bin\Debug\Templates\MvcScaffolder\MvcControllerWithContext\Controller.cs.t4
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\WebFormsScaffolding\bin\Debug\Templates\MvcScaffolder\MvcView\_Edit.cs.t4
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\WebFormsScaffolding\bin\Debug\Templates\MvcScaffolder\MvcView\Create.cs.t4
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\WebFormsScaffolding\bin\Debug\Templates\MvcScaffolder\MvcView\Delete.cs.t4
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\WebFormsScaffolding\bin\Debug\Templates\MvcScaffolder\MvcView\Details.cs.t4
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\WebFormsScaffolding\bin\Debug\Templates\MvcScaffolder\MvcView\Edit.cs.t4
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\WebFormsScaffolding\bin\Debug\Templates\MvcScaffolder\MvcView\Empty.cs.t4
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\WebFormsScaffolding\bin\Debug\Templates\MvcScaffolder\MvcView\Imports.include.t4
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\WebFormsScaffolding\bin\Debug\Templates\MvcScaffolder\MvcView\List.cs.t4
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\WebFormsScaffolding\bin\Debug\Templates\MvcScaffolder\MvcView\ModelMetadataFunctions.cs.include.t4
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\WebFormsScaffolding\obj\Debug\MVC5Scaffolding.csprojResolveAssemblyReference.cache
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\MVC5Scaffolding\obj\Debug\UI\MvcScaffolderDialog.g.cs
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\MVC5Scaffolding\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\MVC5Scaffolding\obj\Debug\MVC5Scaffolding_MarkupCompile.cache
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\MVC5Scaffolding\obj\Debug\MVC5Scaffolding_MarkupCompile.lref
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\MVC5Scaffolding\obj\Debug\MVC5Scaffolding.dll
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\MVC5Scaffolding\bin\Debug\Templates\MvcScaffolder\MvcControllerWithContext\Controller.cs.t4
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\MVC5Scaffolding\bin\Debug\Templates\MvcScaffolder\MvcView\Create.cs.t4
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\MVC5Scaffolding\bin\Debug\Templates\MvcScaffolder\MvcView\Delete.cs.t4
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\MVC5Scaffolding\bin\Debug\Templates\MvcScaffolder\MvcView\Details.cs.t4
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\MVC5Scaffolding\bin\Debug\Templates\MvcScaffolder\MvcView\Edit.cs.t4
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\MVC5Scaffolding\bin\Debug\Templates\MvcScaffolder\MvcView\Empty.cs.t4
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\MVC5Scaffolding\bin\Debug\Templates\MvcScaffolder\MvcView\Imports.include.t4
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\MVC5Scaffolding\bin\Debug\Templates\MvcScaffolder\MvcView\ModelMetadataFunctions.cs.include.t4
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\MVC5Scaffolding\bin\Debug\MVC5Scaffolding.dll
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\MVC5Scaffolding\bin\Debug\MVC5Scaffolding.pdb
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\MVC5Scaffolding\bin\Debug\fr-FR\MVC5Scaffolding.resources.dll
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\MVC5Scaffolding\obj\Debug\UI\MvcScaffolderDialog.baml
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\MVC5Scaffolding\obj\Debug\MVC5Scaffolding.g.resources
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\MVC5Scaffolding\obj\Debug\MVC5Scaffolding.csproj.GenerateResource.Cache
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\MVC5Scaffolding\obj\Debug\fr-FR\MVC5Scaffolding.resources.dll
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\MVC5Scaffolding\obj\Debug\MVC5Scaffolding.pdb
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\MVC5Scaffolding\bin\Debug\Templates\MvcScaffolder\MvcView\Index.cs.t4
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\MVC5Scaffolding\bin\Debug\Templates\MvcScaffolder\MvcFullDependencyCodeGenerator\_Layout.cs.t4
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\MVC5Scaffolding\bin\Debug\Templates\MvcScaffolder\MvcFullDependencyCodeGenerator\_ViewStart.cs.t4
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\MVC5Scaffolding\bin\Debug\Templates\MvcScaffolder\Model\Metadata.cs.t4
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\MVC5Scaffolding\bin\Debug\Templates\MvcScaffolder\DataFieldTemplates\DisplayTemplates\Date.cs.t4
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\MVC5Scaffolding\bin\Debug\Templates\MvcScaffolder\DataFieldTemplates\DisplayTemplates\DateTime.cs.t4
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\MVC5Scaffolding\bin\Debug\Templates\MvcScaffolder\DataFieldTemplates\EditorTemplates\Date.cs.t4
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\MVC5Scaffolding\obj\Debug\UI\ModelMetadataDialog.g.cs
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\MVC5Scaffolding\obj\Debug\UI\ModelMetadataDialog.baml
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\MVC5Scaffolding\bin\Debug\Newtonsoft.Json.dll
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\MVC5Scaffolding\bin\Debug\Newtonsoft.Json.xml
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\MVC5Scaffolding\obj\Debug\Happy.Scaffolding.MVC.Resources.resources
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\MVC5Scaffolding\obj\Debug\Happy.Scaffolding.MVC.UI.MvcScaffolderDialogResources.resources
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\MVC5Scaffolding\obj\Debug\Happy.Scaffolding.MVC.Resources.fr-FR.resources
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\MVC5Scaffolding\obj\Debug\UI\SPScaffolderDialog.g.cs
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\MVC5Scaffolding\obj\Debug\UI\SPScaffolderDialog.baml
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\MVC5Scaffolding\obj\Debug\UI\QueryFormSetting.baml
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\MVC5Scaffolding\obj\Debug\UI\QueryFormSetting.g.cs
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\MVC5Scaffolding\obj\Debug\UI\ResultListSetting.g.cs
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\MVC5Scaffolding\obj\Debug\UI\ResultListSetting.baml
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\MVC5Scaffolding\bin\Debug\Templates\MvcScaffolder\MvcScaffolderSP\Model\ViewModel.cs.t4
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\MVC5Scaffolding\bin\Debug\Templates\MvcScaffolder\MvcScaffolderSP\MvcView\Index.cs.t4
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\MVC5Scaffolding\bin\Debug\Templates\MvcScaffolder\MvcScaffolderSP\MvcControllerWithContext\Controller.cs.t4
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\MVC5Scaffolding\bin\Debug\Templates\MvcScaffolder\MvcScaffolderSP\MvcView\Imports.include.t4
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\MVC5Scaffolding\bin\Debug\Templates\MvcScaffolder\MvcScaffolderSP\MvcView\_Index.cs.t4
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\MVC5Scaffolding\bin\Debug\Templates\MvcScaffolder\MvcScaffolderSP\MvcView\ModelMetadataFunctions.cs.include.t4
+E:\GitHub\MVC5-Scaffolder\CustomBasicScaffolder\MVC5Scaffolding\bin\Debug\Templates\MvcScaffolder\MvcView\EditForm.cs.t4
+R:\MVC5-Scaffolder-master (1)\MVC5-Scaffolder-master\CustomBasicScaffolder\MVC5Scaffolding\bin\Debug\Templates\MvcScaffolder\MvcScaffolderSP\MvcControllerWithContext\Controller.cs.t4
+R:\MVC5-Scaffolder-master (1)\MVC5-Scaffolder-master\CustomBasicScaffolder\MVC5Scaffolding\bin\Debug\Templates\MvcScaffolder\MvcScaffolderSP\Model\ViewModel.cs.t4
+R:\MVC5-Scaffolder-master (1)\MVC5-Scaffolder-master\CustomBasicScaffolder\MVC5Scaffolding\bin\Debug\Templates\MvcScaffolder\MvcScaffolderSP\MvcView\Imports.include.t4
+R:\MVC5-Scaffolder-master (1)\MVC5-Scaffolder-master\CustomBasicScaffolder\MVC5Scaffolding\bin\Debug\Templates\MvcScaffolder\MvcScaffolderSP\MvcView\Index.cs.t4
+R:\MVC5-Scaffolder-master (1)\MVC5-Scaffolder-master\CustomBasicScaffolder\MVC5Scaffolding\bin\Debug\Templates\MvcScaffolder\Model\Metadata.cs.t4
+R:\MVC5-Scaffolder-master (1)\MVC5-Scaffolder-master\CustomBasicScaffolder\MVC5Scaffolding\bin\Debug\Templates\MvcScaffolder\MvcControllerWithContext\Controller.cs.t4
+R:\MVC5-Scaffolder-master (1)\MVC5-Scaffolder-master\CustomBasicScaffolder\MVC5Scaffolding\bin\Debug\Templates\MvcScaffolder\DataFieldTemplates\DisplayTemplates\Date.cs.t4
+R:\MVC5-Scaffolder-master (1)\MVC5-Scaffolder-master\CustomBasicScaffolder\MVC5Scaffolding\bin\Debug\Templates\MvcScaffolder\DataFieldTemplates\DisplayTemplates\DateTime.cs.t4
+R:\MVC5-Scaffolder-master (1)\MVC5-Scaffolder-master\CustomBasicScaffolder\MVC5Scaffolding\bin\Debug\Templates\MvcScaffolder\DataFieldTemplates\EditorTemplates\Date.cs.t4
+R:\MVC5-Scaffolder-master (1)\MVC5-Scaffolder-master\CustomBasicScaffolder\MVC5Scaffolding\bin\Debug\Templates\MvcScaffolder\MvcFullDependencyCodeGenerator\_Layout.cs.t4
+R:\MVC5-Scaffolder-master (1)\MVC5-Scaffolder-master\CustomBasicScaffolder\MVC5Scaffolding\bin\Debug\Templates\MvcScaffolder\MvcFullDependencyCodeGenerator\_ViewStart.cs.t4
+R:\MVC5-Scaffolder-master (1)\MVC5-Scaffolder-master\CustomBasicScaffolder\MVC5Scaffolding\bin\Debug\Templates\MvcScaffolder\MvcScaffolderSP\MvcView\_Index.cs.t4
+R:\MVC5-Scaffolder-master (1)\MVC5-Scaffolder-master\CustomBasicScaffolder\MVC5Scaffolding\bin\Debug\Templates\MvcScaffolder\MvcScaffolderSP\MvcView\ModelMetadataFunctions.cs.include.t4
+R:\MVC5-Scaffolder-master (1)\MVC5-Scaffolder-master\CustomBasicScaffolder\MVC5Scaffolding\bin\Debug\Templates\MvcScaffolder\MvcView\EditForm.cs.t4
+R:\MVC5-Scaffolder-master (1)\MVC5-Scaffolder-master\CustomBasicScaffolder\MVC5Scaffolding\bin\Debug\Templates\MvcScaffolder\MvcView\Create.cs.t4
+R:\MVC5-Scaffolder-master (1)\MVC5-Scaffolder-master\CustomBasicScaffolder\MVC5Scaffolding\bin\Debug\Templates\MvcScaffolder\MvcView\Delete.cs.t4
+R:\MVC5-Scaffolder-master (1)\MVC5-Scaffolder-master\CustomBasicScaffolder\MVC5Scaffolding\bin\Debug\Templates\MvcScaffolder\MvcView\Details.cs.t4
+R:\MVC5-Scaffolder-master (1)\MVC5-Scaffolder-master\CustomBasicScaffolder\MVC5Scaffolding\bin\Debug\Templates\MvcScaffolder\MvcView\Edit.cs.t4
+R:\MVC5-Scaffolder-master (1)\MVC5-Scaffolder-master\CustomBasicScaffolder\MVC5Scaffolding\bin\Debug\Templates\MvcScaffolder\MvcView\Empty.cs.t4
+R:\MVC5-Scaffolder-master (1)\MVC5-Scaffolder-master\CustomBasicScaffolder\MVC5Scaffolding\bin\Debug\Templates\MvcScaffolder\MvcView\Imports.include.t4
+R:\MVC5-Scaffolder-master (1)\MVC5-Scaffolder-master\CustomBasicScaffolder\MVC5Scaffolding\bin\Debug\Templates\MvcScaffolder\MvcView\Index.cs.t4
+R:\MVC5-Scaffolder-master (1)\MVC5-Scaffolder-master\CustomBasicScaffolder\MVC5Scaffolding\bin\Debug\Templates\MvcScaffolder\MvcView\ModelMetadataFunctions.cs.include.t4
+R:\MVC5-Scaffolder-master (1)\MVC5-Scaffolder-master\CustomBasicScaffolder\MVC5Scaffolding\bin\Debug\MVC5Scaffolding.dll
+R:\MVC5-Scaffolder-master (1)\MVC5-Scaffolder-master\CustomBasicScaffolder\MVC5Scaffolding\bin\Debug\MVC5Scaffolding.pdb
+R:\MVC5-Scaffolder-master (1)\MVC5-Scaffolder-master\CustomBasicScaffolder\MVC5Scaffolding\bin\Debug\fr-FR\MVC5Scaffolding.resources.dll
+R:\MVC5-Scaffolder-master (1)\MVC5-Scaffolder-master\CustomBasicScaffolder\MVC5Scaffolding\bin\Debug\Newtonsoft.Json.dll
+R:\MVC5-Scaffolder-master (1)\MVC5-Scaffolder-master\CustomBasicScaffolder\MVC5Scaffolding\bin\Debug\Newtonsoft.Json.xml
+R:\MVC5-Scaffolder-master (1)\MVC5-Scaffolder-master\CustomBasicScaffolder\MVC5Scaffolding\obj\Debug\MVC5Scaffolding.csprojResolveAssemblyReference.cache
+R:\MVC5-Scaffolder-master (1)\MVC5-Scaffolder-master\CustomBasicScaffolder\MVC5Scaffolding\obj\Debug\UI\ModelMetadataDialog.g.cs
+R:\MVC5-Scaffolder-master (1)\MVC5-Scaffolder-master\CustomBasicScaffolder\MVC5Scaffolding\obj\Debug\UI\QueryFormSetting.g.cs
+R:\MVC5-Scaffolder-master (1)\MVC5-Scaffolder-master\CustomBasicScaffolder\MVC5Scaffolding\obj\Debug\UI\ResultListSetting.g.cs
+R:\MVC5-Scaffolder-master (1)\MVC5-Scaffolder-master\CustomBasicScaffolder\MVC5Scaffolding\obj\Debug\UI\SPScaffolderDialog.g.cs
+R:\MVC5-Scaffolder-master (1)\MVC5-Scaffolder-master\CustomBasicScaffolder\MVC5Scaffolding\obj\Debug\UI\MvcScaffolderDialog.g.cs
+R:\MVC5-Scaffolder-master (1)\MVC5-Scaffolder-master\CustomBasicScaffolder\MVC5Scaffolding\obj\Debug\GeneratedInternalTypeHelper.g.cs
+R:\MVC5-Scaffolder-master (1)\MVC5-Scaffolder-master\CustomBasicScaffolder\MVC5Scaffolding\obj\Debug\MVC5Scaffolding_MarkupCompile.cache
+R:\MVC5-Scaffolder-master (1)\MVC5-Scaffolder-master\CustomBasicScaffolder\MVC5Scaffolding\obj\Debug\MVC5Scaffolding_MarkupCompile.lref
+R:\MVC5-Scaffolder-master (1)\MVC5-Scaffolder-master\CustomBasicScaffolder\MVC5Scaffolding\obj\Debug\UI\ModelMetadataDialog.baml
+R:\MVC5-Scaffolder-master (1)\MVC5-Scaffolder-master\CustomBasicScaffolder\MVC5Scaffolding\obj\Debug\UI\QueryFormSetting.baml
+R:\MVC5-Scaffolder-master (1)\MVC5-Scaffolder-master\CustomBasicScaffolder\MVC5Scaffolding\obj\Debug\UI\ResultListSetting.baml
+R:\MVC5-Scaffolder-master (1)\MVC5-Scaffolder-master\CustomBasicScaffolder\MVC5Scaffolding\obj\Debug\UI\SPScaffolderDialog.baml
+R:\MVC5-Scaffolder-master (1)\MVC5-Scaffolder-master\CustomBasicScaffolder\MVC5Scaffolding\obj\Debug\UI\MvcScaffolderDialog.baml
+R:\MVC5-Scaffolder-master (1)\MVC5-Scaffolder-master\CustomBasicScaffolder\MVC5Scaffolding\obj\Debug\MVC5Scaffolding.g.resources
+R:\MVC5-Scaffolder-master (1)\MVC5-Scaffolder-master\CustomBasicScaffolder\MVC5Scaffolding\obj\Debug\Happy.Scaffolding.MVC.Resources.resources
+R:\MVC5-Scaffolder-master (1)\MVC5-Scaffolder-master\CustomBasicScaffolder\MVC5Scaffolding\obj\Debug\Happy.Scaffolding.MVC.UI.MvcScaffolderDialogResources.resources
+R:\MVC5-Scaffolder-master (1)\MVC5-Scaffolder-master\CustomBasicScaffolder\MVC5Scaffolding\obj\Debug\Happy.Scaffolding.MVC.Resources.fr-FR.resources
+R:\MVC5-Scaffolder-master (1)\MVC5-Scaffolder-master\CustomBasicScaffolder\MVC5Scaffolding\obj\Debug\MVC5Scaffolding.csproj.GenerateResource.Cache
+R:\MVC5-Scaffolder-master (1)\MVC5-Scaffolder-master\CustomBasicScaffolder\MVC5Scaffolding\obj\Debug\fr-FR\MVC5Scaffolding.resources.dll
+R:\MVC5-Scaffolder-master (1)\MVC5-Scaffolder-master\CustomBasicScaffolder\MVC5Scaffolding\obj\Debug\MVC5Scaffolding.dll
+R:\MVC5-Scaffolder-master (1)\MVC5-Scaffolder-master\CustomBasicScaffolder\MVC5Scaffolding\obj\Debug\MVC5Scaffolding.pdb
